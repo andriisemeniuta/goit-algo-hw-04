@@ -17,7 +17,3 @@ def total_salary(path):
         
     except FileNotFoundError:
         return 0, 0
-
-# Код для проверки (если нужен):
-# x = total_salary("file.txt")
-# print(x)
