@@ -1,3 +1,5 @@
+# first task
+
 def total_salary(path):
     total = 0
     count = 0
